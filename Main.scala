@@ -1,4 +1,4 @@
-//> using dep org.virtuslab.scala-cli:libsodiumjni:0.0.4
+//> using dep org.virtuslab.scala-cli:libsodiumjni:0.0.3
 // //> using dep com.lihaoyi::os-lib:0.9.2
 
 import libsodiumjni.Sodium

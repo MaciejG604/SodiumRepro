@@ -11,7 +11,7 @@ on:
 jobs:
   test:
     timeout-minutes: 120
-    runs-on: "macOS-13"
+    runs-on: macos-latest
     steps:
     - uses: actions/checkout@v4
       with:

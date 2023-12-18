@@ -20,4 +20,4 @@ jobs:
     - uses: VirtusLab/scala-cli-setup@5b1a6c5ca98b5642996812781f6ad9b2d5935f85
       with:
         jvm: "temurin:17"
-    run: scala-cli Main.scala
+    - run: scala-cli Main.scala
